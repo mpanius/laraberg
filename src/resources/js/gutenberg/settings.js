@@ -24,8 +24,8 @@ export const editorSettings = {
   disableCustomColors: false,
   disablePostFormats: false,
   mediaLibrary: false,
-  titlePlaceholder: 'Add title',
-  bodyPlaceholder: 'Write your story',
+  titlePlaceholder: 'Добавьте заголовок',
+  bodyPlaceholder: 'Напишите что-нибудь',
   isRTL: false,
   postLock: {
     isLocked: false
